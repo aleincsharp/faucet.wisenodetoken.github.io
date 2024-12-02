@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faucet.wisenodetoken.github.io/static/css/main.aff49247.css",
+    "main.js": "/faucet.wisenodetoken.github.io/static/js/main.7f297730.js",
+    "static/js/453.c6332980.chunk.js": "/faucet.wisenodetoken.github.io/static/js/453.c6332980.chunk.js",
+    "index.html": "/faucet.wisenodetoken.github.io/index.html",
+    "main.aff49247.css.map": "/faucet.wisenodetoken.github.io/static/css/main.aff49247.css.map",
+    "main.7f297730.js.map": "/faucet.wisenodetoken.github.io/static/js/main.7f297730.js.map",
+    "453.c6332980.chunk.js.map": "/faucet.wisenodetoken.github.io/static/js/453.c6332980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff49247.css",
+    "static/js/main.7f297730.js"
+  ]
+}
